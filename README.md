@@ -7,7 +7,7 @@ pkg install git
 pkg install python
 pip install rich
 pip install bs4
-git clone https://github.com/Fajar-15/EBKU
+git clone https://github.com/Fajar-15/EFBKU
 ```
 ### Run 
 ```
